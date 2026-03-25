@@ -325,3 +325,10 @@ footer a:hover { color: #f1c40f; }
   .jobs { grid-template-columns: 1fr; }
   .tickets { grid-template-columns: 1fr; }
 }
+
+
+.hero-note {
+  font-size: 13px;
+  color: #666;
+  margin-top: 12px;
+}
